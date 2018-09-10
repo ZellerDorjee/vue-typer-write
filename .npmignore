@@ -1,0 +1,12 @@
+.git*
+.idea*
+node_modules/
+npm-debug.log
+
+build
+config
+src
+test
+.babelrc
+.editorconfig
+.postcssrc.js
