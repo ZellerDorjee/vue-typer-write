@@ -1,6 +1,6 @@
 {
   "name": "vue-typer-write",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A printing component based on Vue",
   "author": "dorjee",
   "private": false,
@@ -10,6 +10,10 @@
     "unit": "jest --config test/unit/jest.conf.js --coverage",
     "test": "npm run unit",
     "build": "node build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZellerDorjee/vue-typer-write.git"
   },
   "dependencies": {
     "vue": "^2.5.2"
